@@ -1,7 +1,8 @@
 # Project Name: Schedule Genius
 
 > Outline a brief description of your project.
-> Live demo [_here_]((https://schedulegenius-v2.web.app/)). <!-- If you have the project hosted somewhere, include the link here. -->
+> 
+> Check it out: [_Schedule Genius Application_]((https://www.schedulegenius-v2.web.app/)). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 
